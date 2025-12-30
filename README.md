@@ -20,3 +20,7 @@ The intention was to judge, since the tweet describes sexist situations or behav
 
 ''*As usual, the woman was the one quitting her job for the family’s welfare…*''
 
+We develop 2 solutions using:
+
+- Bidirectional LSTM and Stacked Bidirectional LSTM
+- Transformer model trained on Hate Speech detection 
